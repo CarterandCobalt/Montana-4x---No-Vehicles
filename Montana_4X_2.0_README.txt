@@ -1,0 +1,114 @@
+MONTANA 4X — CARTER & COBALT EDIT
+VERSION 2.0
+
+IMPORTANT — DEALER VEHICLE HIDER / DISPLAY LOCK
+
+Install and enable FS25_Dealer_Display_Lock_v1_4.zip for the intended dealership display behavior.
+In the mod selection screen, it is named "Dealer Display Hotspot Hider & Showroom Lock."
+
+This separate mod hides the dealership display equipment's map icons and prevents players from entering the display vehicles or attaching the display implements. The equipment remains visible at the dealership.
+Player-owned and leased equipment, along with trains, are excluded from the display lock.
+Without this mod enabled, the display restrictions and icon hiding will not be applied.
+
+Place FS25_Dealer_Display_Lock_v1_4.zip in your FarmingSimulator2025/mods folder and enable it when starting or loading your Montana save. Leave the ZIP compressed. Remove older versions of the dealer hotspot hider or display lock before installing this version.
+
+ABOUT THIS MAP
+
+Montana 4X is a fictional Montana farming map originally created by DJ Modding.
+Version 2.0 is the Carter & Cobalt edit, with rebuilt fields, revised farmland, updated farms, production balancing, improved access routes, and refreshed map visuals.
+
+INSTALLATION
+
+Place FS25_Montana_4X.zip in your FarmingSimulator2025/mods folder. Leave the ZIP compressed and keep its filename unchanged.
+Keep only one active copy of the map in the mods folder. Move older versions and backups outside that folder.
+Enable the map and the separate Dealer Display Hotspot Hider & Showroom Lock mod when creating your save.
+
+A new save is recommended for Version 2.0 because the fields, farmland layout, starting farm, starting equipment, and default placeables have changed. Compatibility with saves from earlier map versions is not guaranteed.
+
+FARM BUILDING AND ANIMAL PEN REMOVAL
+
+Animal pens can be sold. After selling a pen, use Map Object Hider or Easy Development Tools to remove the remaining structures.
+Original farm buildings can also be removed using Map Object Hider or Easy Development Tools.
+These are separate tools and are only needed if you want to remove the original structures.
+Placement restrictions have been removed so replacement buildings can be placed where the originals stood.
+
+VERSION 2.0 CHANGELOG
+
+Fields & Farmland
+
+Rebuilt all fields from scratch.
+Reduced field polygon points from approximately 31,000 to 1,900, substantially reducing AI planning time.
+Consolidated fields from 122 to 113.
+Changed total field area from 1,037.01 ha to 954.13 ha, with average field size changing from 8.50 ha to 8.44 ha.
+Reorganized farmland numbering geographically, progressing from north through east to south.
+Removed separate land purchases between neighboring fields where no road divides them.
+Expanded ownership boundaries around fields to make working near field edges easier.
+Updated farmland prices based on field size and soil quality.
+Relocated trees near fields to improve equipment clearance.
+
+AI, Traffic & Access
+
+Added missing traffic and AI splines.
+Adjusted multiple AI triggers.
+Improved routes into productions and sell points.
+Adjusted traffic paths and railroad crossings.
+Removed parked cars that interfered with AI.
+Added access paths around the map.
+Removed collisions from roadside objects.
+Made traffic signs static so equipment can no longer drag them.
+Lowered bridges slightly below road surfaces to separate overlapping collision meshes.
+
+Farms & Livestock
+
+Adjusted farm layouts for easier access.
+Rebranded farms and updated gates and fencing.
+Added custom silos and corn dryers with AI access routes.
+Connected cow and sheep fences to their animal pastures.
+Fixed meadow feed for livestock grazing.
+Removed the sheep barn and pen from Farm 06.
+Enabled the sale of animal pens. After selling, remove the remaining structures with Map Object Hider or Easy Development Tools.
+Enabled removal of farm buildings using Map Object Hider or Easy Development Tools.
+Removed placement restrictions that prevented new buildings from being built where original farm buildings stood.
+
+Starting Farm & Equipment
+
+Relocated the starter farm to Farm 06 in the southwest.
+Reduced starting field ownership by one field.
+Reduced starting equipment.
+Changed the starting spawn location.
+
+Productions & Economy
+
+Rebalanced crop prices and production returns while keeping seasonal pricing.
+Increased production speeds and storage for larger harvests.
+Adjusted food recipes, fermentation, and BGA processing.
+Added Montana greenhouse versions with increased output and matching product prices.
+Fixed onion pricing.
+Adjusted farm, production building, and greenhouse purchase prices.
+Fixed propane unloading at the ethanol plant.
+Corrected missing sawmill trigger references.
+Rebranded several productions and sell points to better fit the region.
+
+Dealership
+
+Rebranded the dealership with Case IH, CLAAS, and updated equipment displays.
+Made dealership display vehicles and implements unavailable for player use through the separate Dealer Display Hotspot Hider & Showroom Lock mod.
+Hidden dealership display equipment's map icons when that mod is enabled.
+
+Map Appearance & Cleanup
+
+Added a new, realigned PDA overview map.
+Added a new loading splash screen.
+Adjusted lighting across the map.
+Updated farm and business signs, flags, banners, and advertising billboards.
+Added double-sided elevated billboards and farming-themed advertisements.
+Repainted road edges and cleaned up grass.
+Removed foliage visible inside buildings.
+Corrected the placement of buildings and objects near water.
+Removed the airplane.
+Completed miscellaneous cosmetic cleanup.
+
+CREDITS
+
+Original map by DJ Modding.
+Updates and Version 2.0 edit by Carter & Cobalt.
